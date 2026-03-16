@@ -4,18 +4,18 @@
 
 <h3>👧🏻💻 About Me </h3>
 
-- 🔭 &nbsp; I am a data-driven business analyst with strong passion for relational database, data visualization, and big data management.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; MS degrees in International Business and Finance. MS Analytics degree expected August 2021.
-- 💼 &nbsp; Business intelligence analyst for a startup company. Seeking a position requiring data-powered problem-solving. 
+- 🔭 &nbsp; I am a data-driven problem solver with 5+ years of experiences leveraging big data, experimentation, and AI to drive optimizations in Finance and Ecommerce sectors.
+- 🤔 &nbsp; Exploring new technologies and developing data solutions and quick hacks.
+- 🎓 &nbsp; MS joint degrees in International Business and Finance. MS Analytics.
+- 💼 &nbsp; Safeguarding platform health and optimizing risk-adjusted growth at a tech company.
 - 🌱 &nbsp; Enthusiast in AI, FinTech, and Risk Management.
-- ✍️ &nbsp; Passionate about exploring new coding languages and the integration of them, e.g. R+Python, SQL+Python, Excel+Tableau etc.
+- ✍️ &nbsp; Passionate about exploring new coding languages and tools.
 - ☕ &nbsp; Sort of addicted to caffein and the feeling of a freshly-started morning. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | SQL | R | Tableau  
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🛢 &nbsp; MySQL | Firebase | Spark
 - 🔧 &nbsp; Android Studio | PyCharm | Jupyter Notebook | AWS | Google Big Query
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
